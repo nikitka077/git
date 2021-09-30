@@ -12,6 +12,7 @@ namespace git
         {
             Console.WriteLine("Привет мир!!!");
             Console.WriteLine("Привет мир!!!- Калинин!");
+            Console.WriteLine("Привет мир!!!+1");
             Console.ReadKey();
         }
     }
