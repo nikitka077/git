@@ -11,6 +11,11 @@ namespace git
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир!");
+            int[] a = new int[10];
+            for (int i = 0; i < a.Length; i++)
+            {
+                Console.Write(a[i] + "\t");
+            }
             Console.ReadKey();
         }
     }
