@@ -10,14 +10,7 @@ namespace git
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Привет мир!!!");
-            Console.WriteLine("Привет мир!!!- Калинин!");
-            int[] a = new int[10];
-            for (int i = 0; i < a.Length; i++)
-            {
-                a[i] = i;
-                Console.Write(a[i] + "\t");
-            }
+            Console.WriteLine("Привет мир!");
             Console.ReadKey();
         }
     }
