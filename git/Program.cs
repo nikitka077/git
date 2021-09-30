@@ -11,6 +11,7 @@ namespace git
         static void Main(string[] args)
         {
             Console.WriteLine("Привет мир!!!");
+            Console.WriteLine("Привет мир!!!- Калинин!");
             Console.ReadKey();
         }
     }
